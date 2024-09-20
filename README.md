@@ -8,7 +8,7 @@ Give a ⭐️ if this project helped you!
 
 The `express-app` snippet provides a foundational setup for a new Express.js application, including essential middleware, a basic route, and a simple 404 error handler. It's a great starting point for building web applications and APIs.
 
-![video](https://github.com/cipotemanx/express-js-snippet/assets/53237299/0df73529-c548-4d1d-8465-0fcf696eb9b0)
+![video](https://github.com/dariohsb/express-js-snippet/assets/53237299/0df73529-c548-4d1d-8465-0fcf696eb9b0)
 
 
 ## Installation
